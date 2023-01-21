@@ -7,6 +7,7 @@ This project involved performing KNN and SVM on a data set chosen
 2) tennisRfile: contains all of the R-code for this project
 3) Stats project questions and models: contains our report of our findings
 
+### Process:
 Before being able to create our code we had to clean up our data set by:
 1) Filling in any missing information
 2) Deleted any unnecessary variables
