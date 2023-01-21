@@ -1,6 +1,6 @@
 # Tennis-Analysis-DataSet
 * ***This project was done as I was taking Junior level CS courses*** *
-* 
+
 This project involved performing KNN and SVM on a data set chosen 
 
 ### Contents of the files:
