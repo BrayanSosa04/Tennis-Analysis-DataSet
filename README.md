@@ -2,7 +2,7 @@
 * ***This project was done as I was taking Junior level CS courses*** *
 This project involved performing KNN and SVM on a data set chosen 
 
-###Contents of the files:
+### Contents of the files:
 1) data.csv: contains the data set
 2) tennisRfile: contains all of the R-code for this project
 3) Stats project questions and models: contains our report of our findings
